@@ -1,0 +1,5 @@
+node_modules
+
+.env
+
+DB_URL=mongodb+srv://Dong_Leticia:<dongleticia686>@cluster0.5giilld.mongodb.net/school-aapi?retryWrites=true&w=majority
